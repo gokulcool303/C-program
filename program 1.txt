@@ -1,0 +1,9 @@
+
+here i given only the logic 
+
+
+
+Ternary operator:
+
+c=a>b?a:b;
+print c
