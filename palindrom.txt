@@ -1,0 +1,11 @@
+num=123;
+while(num!=0)
+{
+	rem=num%10;
+	res=(res*10)+rem;
+	num=num/10;
+}
+if(num==res)
+	printf("Palindrom");
+else
+	printf("Not Palindrom");
